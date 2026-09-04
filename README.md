@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Yinet! ˚˖𓍢ִ໋🦢˚</h1>
-<p align="center"> Estudiante de Desarrollo de Software en el itla | Amante del frontend y crear cosas bonitas</p>
+<p align="center"> Estudiante de Desarrollo de Software en el Instituto Tecnológico de las Américas (ITLA) | Amante del frontend y crear cosas bonitas</p>
 
 ### ᨳଓ Tecnologías y Lenguajes
 <p>
