@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Yinet! ˚˖𓍢ִ໋🦢˚</h1>
 <p align="center"> Estudiante de Desarrollo de Software en el itla | Amante del frontend y crear cosas bonitas</p>
 
-### 🛠️ Tecnologías y Lenguajes
+### ᨳଓ Tecnologías y Lenguajes
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -13,9 +13,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Estadísticas de GitHub
+### ᨳଓ Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yinettjs&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yinettjs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yinettjs&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
