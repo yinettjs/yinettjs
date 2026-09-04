@@ -16,7 +16,10 @@
 ### ᨳଓ Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yinettjs&show_icons=true&theme=vue-dark&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinettjs&layout=compact&theme=vue-dark&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yinettjs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yinettjs&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
